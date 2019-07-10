@@ -3,8 +3,9 @@
 Its like a Ski-Swap but on your computer!
 Buy, sell and comment everything slope related!
 
-Ruby 2.5.3
-Rails 5.2.3
+Ruby 2.6.1
+
+Rails 5.2.2
 
 ## Start Instructions
 
