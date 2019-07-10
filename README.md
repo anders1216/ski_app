@@ -1,24 +1,23 @@
-# README
+# SlopeSideSales
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Its like a Ski-Swap but on your computer!
+Buy, sell and comment everything slope related! 
 
-Things you may want to cover:
+## Start Instructions
 
-* Ruby version
+- Clone repo into a new folder on your computer.
+- Navigate into the new folder and open it in your terminal/console (right-click and select 'New Terminal at Folder'.
+- Enter the following lines into your terminal
+```
+bundle install
+rails start
+```
+- In your browser navigate to http://localhost:3000 and enjoy!
 
-* System dependencies
 
-* Configuration
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+ 
 
-* Deployment instructions
-
-* ...
