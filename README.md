@@ -1,7 +1,10 @@
 # SlopeSideSales
 
 Its like a Ski-Swap but on your computer!
-Buy, sell and comment everything slope related! 
+Buy, sell and comment everything slope related!
+
+Ruby 2.5.3
+Rails 5.2.3
 
 ## Start Instructions
 
